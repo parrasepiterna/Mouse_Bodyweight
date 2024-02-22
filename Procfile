@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Bodyweight.ipynb
+web: voila --port=$PORT --no-browser Bodyweight.ipynb
